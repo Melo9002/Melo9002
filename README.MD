@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/subbieAndMe.png" width="550" />
+  <img src="assets/subbieAndMe.png" width="400" />
 </p>
 
 ---
