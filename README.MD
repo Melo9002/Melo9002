@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I’m Pedro (aka Blue)</h1>
 
 <p align="center">
-  Software Developer • English Teacher • Systems Thinker
+  Software Developer • English Teacher • Systems Thinker • IT Analyst
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@ I’m a **software developer with a background in Information Systems** and a st
 
 I split my time between:
 - Developing software and tools
+- Working as an IT analyst at Hapvida
 - Teaching English as a foreign language
 - Experimenting, learning, and refining my craft
 
@@ -34,10 +35,9 @@ I value **clarity, maintainability, and practical solutions** over hype.
 
 ## 🎯 Current Focus
 
-- Actively job hunting in IT
-- Improving real-world development workflows
-- Building small, focused projects that actually ship
-- Long-term goal: work internationally (Japan 🇯🇵 is on the radar)
+- Actively job hunting a development role
+- Building small, focused projects
+- Long-term goal: work internationally
 
 ---
 
@@ -46,9 +46,6 @@ I value **clarity, maintainability, and practical solutions** over hype.
 Teaching English sharpened my ability to:
 - Explain complex ideas clearly
 - Adapt to different learning styles
-- Communicate with precision and empathy
-
-This directly impacts how I write code, documentation, and collaborate.
 
 ---
 
