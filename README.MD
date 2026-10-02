@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build things to understand how they work.
+  I build things to understand how they work and to have fun.
 </p>
 
 ---
