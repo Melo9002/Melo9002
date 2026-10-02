@@ -1,65 +1,124 @@
-<h1 align="center">Hey 👋 I’m Pedro (aka Blue)</h1>
+<h1 align="center">Hey 👋 I'm Pedro (aka Blue)</h1>
 
 <p align="center">
-  Software Developer • English Teacher • Systems Thinker • IT Analyst
+  Software Developer • IT Infrastructure Analyst • English Teacher
 </p>
 
 <p align="center">
   <img src="assets/subbieAndMe.png" width="400" />
 </p>
 
+<p align="center">
+  I build things to understand how they work.
+</p>
+
 ---
 
 ## 🧠 About Me
 
-I’m a **software developer with a background in Information Systems** and a strong passion for **building, teaching, and understanding how things work under the hood**.
+I'm an **Information Systems graduate** working in IT infrastructure while building software, games, tools, and experiments on the side.
 
-I split my time between:
-- Developing software and tools
-- Working as an IT analyst at Hapvida
-- Teaching English as a foreign language
-- Experimenting, learning, and refining my craft
+I like projects where I can dig into the systems underneath them: tactical AI, APIs, procedural generation, simulation, local AI, developer tooling, or occasionally a virtual chicken with questionable computational requirements.
 
-I value **clarity, maintainability, and practical solutions** over hype.
+My approach is usually the same:
 
----
+**build something small → make it work → understand why it works → improve it without destroying the working part.**
 
-## 🛠 Tech & Skills (so far)
-
-- **Languages:** JavaScript, TypeScript, Python,  Java, C++, GdScript
-- **Web:** HTML, CSS, modern frontend workflows
-- **Tools:** Git, GitHub, REST APIs
-- **Mindset:** systems thinking, problem decomposition
+I care about maintainability, understandable architecture, practical solutions, and actually finishing things.
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Current Projects
 
-- Actively job hunting a development role
-- Building small, focused projects
-- Long-term goal: work internationally
+### FuseFire
+
+A 3D tactical combat game/proving ground built in **Godot 4**.
+
+Prototype 1 reached **v1.0.0** after proving the project's core tactical foundation: procedural and authored battlefields, elevation and traversal, multiple mission objectives, objective-aware AI, deterministic combat, AI-vs-AI simulation, replay, action cameras, and development/debugging tools.
+
+➡️ [FuseFire Proving Grounds](https://github.com/Melo9002/fusefire-proving-grounds)
+
+### Task Goblin API
+
+A small **Java / Spring Boot REST API** built as a practical backend project, with persistence and task-management endpoints.
+
+➡️ [Task Goblin API](https://github.com/Melo9002/task-goblin-api)
+
+### virt-pet
+
+A tiny terminal virtual pet written in **Python**, with optional local AI integration through **Ollama**.
+
+Because apparently the terminal needed a creature living in it.
+
+---
+
+## 🛠️ Tech I Work With
+
+**Languages**
+- Java
+- Python
+- GDScript
+- JavaScript / TypeScript
+- C / C++
+
+**Tools & Technologies**
+- Godot
+- Spring Boot
+- REST APIs
+- Git / GitHub
+- SQL
+- Ollama / local AI experimentation
+
+I'm less interested in collecting technology names than in understanding how the pieces of a system fit together.
+
+---
+
+## 🧪 Things I Like Building
+
+- Game systems and tactical AI
+- Backend APIs
+- Procedural systems and simulations
+- Developer/debugging tools
+- Small experimental software
+- AI-assisted and local-AI workflows
+
+Some projects become serious.
+
+Some become chickens.
+
+Both are useful.
 
 ---
 
 ## 🧑‍🏫 Teaching & Communication
 
-Teaching English sharpened my ability to:
-- Explain complex ideas clearly
-- Adapt to different learning styles
+I also teach English as a foreign language.
+
+Teaching has made me much better at explaining technical ideas, adapting explanations to different people, and figuring out exactly **which part of something isn't making sense yet**.
+
+That turns out to be surprisingly useful in software too.
 
 ---
 
-## 📬 Let’s Connect
+## 🌎 Currently
+
+I'm based in **Brazil** and work in IT infrastructure while continuing to develop my software portfolio and move further into software development.
+
+I'm especially interested in projects involving **backend development, game systems, simulation, AI, and developer tooling**.
+
+---
+
+## 📬 Find Me
 
 - 🐙 GitHub: https://github.com/Melo9002
 - 💼 LinkedIn: https://www.linkedin.com/in/pedrovmelos/
-- ✉️ Open to collaboration, discussion, and learning
 
 ---
 
 <details>
-  <summary>🌸 Wanna check your fortune today? </summary>
+  <summary>🌸 Wanna check your fortune today?</summary>
 
-  A quiet little experiment inspired by omikuji and small rituals:  
+  A quiet little experiment inspired by omikuji and small rituals:
+
   https://melo9002.github.io/blue-omikuji/
 </details>
